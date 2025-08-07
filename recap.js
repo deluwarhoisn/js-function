@@ -26,4 +26,3 @@ function doMath(num1,num2){
 const result = doMath(10,5);
 console.log(result)
 
-function
