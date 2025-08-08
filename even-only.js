@@ -3,17 +3,17 @@
  * return the sum of even numbers
  */
 
-function evenNumbersOnly(numbers){
-    const evens = [];
-    for(const number of numbers){
-        if(number % 2 === 0){
-            console.log(number);
-            evens.push(number);
+// function evenNumbersOnly(numbers){
+//     const evens = [];
+//     for(const number of numbers){
+//         if(number % 2 === 0){
+//             console.log(number);
+//             evens.push(number);
              
-        }
-    }
-    return evens;
-}
+//         }
+//     }
+//     return evens;
+// }
 
 const numbers = [5,8,91,24,6];
 // const evens= evenNumbersOnly(numbers)
