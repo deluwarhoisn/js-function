@@ -31,8 +31,8 @@ function doubleTriple(number,doubled){
     }
 }
 
-// console.log(doubleTriple(5,true));
-// console.log(doubleTriple(5,false));
+console.log(doubleTriple(5,true));
+console.log(doubleTriple(5,false));
 
 function numberOfElements(numbers){
     const len = numbers.length;
@@ -40,3 +40,4 @@ function numberOfElements(numbers){
 }
 
 numberOfElements([12,45,78,45,121254,4,5]);
+
